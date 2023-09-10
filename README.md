@@ -21,7 +21,7 @@ Things included are:
 
 * `pandas`
 
-* `Pylint` or `ruff`
+* `Pylint`
 
 * `Dockerfile`
 
